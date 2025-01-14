@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Young Wang  
+# Hi there! 👋 My name is Young. 
 
 [🌐 Website](https://earlab.ca/) | [✉️ Email](mailto:young.wang@rice.edu) | [🔗 LinkedIn](https://www.linkedin.com/in/junzhe-young-wang/)  
 
