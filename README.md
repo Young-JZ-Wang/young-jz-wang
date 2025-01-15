@@ -1,6 +1,6 @@
 # Hi there! 👋 My name is Young. 
 
-[🌐 Personal Website]([https://earlab.ca/](https://young-oct.github.io/) | [👂 Earlab](https://earlab.ca) | [✉️ Email](mailto:young.wang@rice.edu) | [🔗 LinkedIn](https://www.linkedin.com/in/junzhe-young-wang/)
+[🌐 Personal Website](https://young-oct.github.io/) | [👂 Earlab](https://earlab.ca) | [✉️ Email](mailto:young.wang@rice.edu) | [🔗 LinkedIn](https://www.linkedin.com/in/junzhe-young-wang/)
 
 ---
 
