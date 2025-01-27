@@ -4,7 +4,7 @@
 
 ---
 
-I'm an engineer and developer based in Houston, TX 🚀, currently pursuing a PhD in Electrical and Computer Engineering at [Rice University](https://computationalimaging.rice.edu/), specializing in computational imaging. My work focuses on advancing imaging techniques to improve healthcare outcomes.  
+I'm an engineer based in Houston, TX 🚀, currently pursuing a PhD in Electrical and Computer Engineering at [Rice University](https://computationalimaging.rice.edu/), specializing in computational imaging. My work focuses on advancing imaging techniques to improve healthcare outcomes.  
 
 ### 👨‍💻 In the past......  
 🏥 **Medventions Fellow** at [Sunnybrook Research Institute](https://medventions.ca/), working with the ophthalmology department to address clinical needs.  
